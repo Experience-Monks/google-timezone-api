@@ -1,0 +1,30 @@
+{
+  "name": "google-timezone-api",
+  "version": "1.0.0",
+  "description": "Easy way to use the google timezone api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jam3/google-timezone-api.git"
+  },
+  "keywords": [
+    "google",
+    "api",
+    "timezone",
+    "time",
+    "zone"
+  ],
+  "author": "Mikko Haapoja <me@mikkoh.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jam3/google-timezone-api/issues"
+  },
+  "homepage": "https://github.com/Jam3/google-timezone-api",
+  "dependencies": {
+    "merge": "^1.2.0",
+    "promise": "^6.0.1"
+  }
+}
