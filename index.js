@@ -29,6 +29,8 @@ var baseOpts = {
  * }
  * ```
  * This module can be used both in Node and in the browser via Browserify.
+ *
+ * Visit https://developers.google.com/maps/documentation/timezone/ for more info.
  * 
  * @param  {Object} uOpts Options used to communicate with the timezone api. See above for details.
  * @param  {Function} [callback] Callback is optional but can be used instead of promises. Returned data will be in the
